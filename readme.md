@@ -5,13 +5,13 @@
 1 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/edu-velazquez-GlobalServiceFabric/kiss-session-API-Testing.git
 ```
 
 2  Go to the project directory
 
 ```bash
-  cd my-project
+  cd kiss-session-API-Testing
 ```
 
 3 Install dependencies
